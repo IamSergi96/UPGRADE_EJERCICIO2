@@ -1,0 +1,21 @@
+.welcome{
+    left: 500px;
+    position:fixed;
+}
+#logochimp{
+    max-height: 320px;
+    max-width: 320px;
+    float: left;
+}
+.login{
+    top: 200px;
+    left: 500px;
+    position: fixed;
+}
+.passwordClass::after{
+    /*No se como poner la imagen del icono desocultar al lado de password*/
+    border-image: url("https://www.shutterstock.com/image-vector/icon-line-password-show-design-260nw-1757433218.jpg");
+}
+#buttonAccept{
+    min-height: 20px;
+}
